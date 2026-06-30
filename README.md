@@ -17,13 +17,12 @@ colcon build
 
 <h1> Isaac Sim </h1>
 
-###1
 src/piper_moveit_config/piper_simpleRoom.usd를 Isaac sim에서 불러온 뒤 실행
 
-###2
 ```
 ros2 launch piper_moveit_config demo.launch.py
 ```
+명령어를 통해 piper moveit 실행
 
 
 <br><br><br><br><br><br>
