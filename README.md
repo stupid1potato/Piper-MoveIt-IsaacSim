@@ -1,3 +1,5 @@
+https://youtu.be/dGvGAYixpRw?si=zlUVqEao_A3uyshL
+
 <br>
 
 <h1> 초기설정 </h1>
