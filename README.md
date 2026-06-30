@@ -15,7 +15,7 @@ colcon build
 
 <br><br><br><br>
 
-# Isaac Sim
+<h1> Isaac Sim </h1>
 
 ###1
 src/piper_moveit_config/piper_simpleRoom.usd를 Isaac sim에서 불러온 뒤 실행
