@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦾 Piper Robot Arm with MoveIt2 & Isaac Sim
+# Piper Robot Arm with MoveIt2 & Isaac Sim
 
 **Piper 로봇팔의 URDF를 기반으로 MoveIt2와 Isaac Sim을 연동한 프로젝트입니다.**
 
@@ -15,13 +15,13 @@
 
 <br>
 
-## 📌 소개
+## 소개
 
 본 Repository는 **Piper Robot Arm**의 URDF 파일을 활용하여 **MoveIt2**와 **NVIDIA Isaac Sim**을 연동하는 예제 및 설정 파일을 제공합니다. Isaac Sim에서 시뮬레이션된 환경을 MoveIt2를 통해 모션 플래닝하고 제어할 수 있습니다.
 
 <br>
 
-## 📂 목차
+## 목차
 
 - [초기 설정](#-초기-설정)
 - [Isaac Sim 실행](#-isaac-sim-실행)
@@ -29,7 +29,7 @@
 
 <br>
 
-## 🚀 초기 설정
+## 초기 설정
 
 ### 1. Repository 클론
 
@@ -47,7 +47,7 @@ colcon build
 
 <br>
 
-## 🖥️ Isaac Sim 실행
+## Isaac Sim 실행
 
 1. Isaac Sim에서 아래 USD 파일을 불러옵니다.
 
@@ -63,7 +63,7 @@ colcon build
 
 <br>
 
-## 🛠️ 트러블슈팅
+## 트러블슈팅
 
 ### Action Graph 오류 발생 시
 
