@@ -1,7 +1,17 @@
-# Isaac Sim Action graph setting
-<img width="655" height="520" alt="image" src="https://github.com/user-attachments/assets/a2227d58-1591-4240-898d-03edc3faa052" />
+# 초기설정
 
-# Isaac Sim Topic setting
-<img width="719" height="217" alt="image" src="https://github.com/user-attachments/assets/1bcb639b-c1c9-4a19-a249-d4a24392a32f" />
+### git 설치
+```
+git clone 
+```
 
-topic이름은 자신의 환경에 맞는 topic이름으로 설정하면 됩니다. 예) /joint_states
+
+
+# Isaac Sim
+
+###1
+src/piper_moveit_config/piper_simpleRoom.usd를 Isaac sim에서 불러와줍니다.
+###2
+```
+ros2 launch piper_moveit_config demo.launch.py
+```
